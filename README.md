@@ -51,4 +51,4 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by [Rida Rahim](https://github.com/yourusername)
+Built by [Rida Rahim](https://github.com/ridacyber)
