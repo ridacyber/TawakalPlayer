@@ -44,9 +44,6 @@ Debugging was done entirely through `logcat` and `dumpsys`, with no browser-styl
 4. Build and install the app via Android Studio or a signed APK
 5. Launch — the app will automatically enter Lock Task Mode
 
-## Screenshots
-
-_Add screenshots or a short demo video/GIF here_
 
 ## License
 
