@@ -46,9 +46,11 @@ Debugging was done entirely through `logcat` and `dumpsys`, with no browser-styl
 
 
 ## License
-
 MIT — see [LICENSE](LICENSE) for details.
 
-## Author
+## Owned By
+TawakalStudio LLC 
 
+
+## Author
 Built by [Rida Rahim](https://github.com/ridacyber)
